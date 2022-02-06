@@ -1,0 +1,6 @@
+#include <studio.h>
+int main(){
+prints("Hello World");
+return 0;
+
+}
