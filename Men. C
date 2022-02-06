@@ -1,6 +1,7 @@
 #include <studio.h>
 int main(){
-prints("Hello World");
+char a[]="Hello World";
+prints("%s",a);
 return 0;
 
 }
